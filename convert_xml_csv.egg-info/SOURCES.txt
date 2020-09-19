@@ -1,0 +1,7 @@
+README.rst
+setup.py
+convert_xml_csv/__init__.py
+convert_xml_csv.egg-info/PKG-INFO
+convert_xml_csv.egg-info/SOURCES.txt
+convert_xml_csv.egg-info/dependency_links.txt
+convert_xml_csv.egg-info/top_level.txt
